@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EugeneNguyen/express-laravel-passport.git"
+    "url": "git+https://github.com/zxc20033/express-laravel-passport.git"
   },
   "keywords": [
     "laravel",
@@ -18,9 +18,9 @@
   "author": "Eugene Nguyen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EugeneNguyen/express-laravel-passport/issues"
+    "url": "https://github.com/zxc20033/express-laravel-passport/issues"
   },
-  "homepage": "https://github.com/EugeneNguyen/express-laravel-passport#readme",
+  "homepage": "https://github.com/zxc20033/express-laravel-passport#readme",
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-polyfill": "^6.26.0",
