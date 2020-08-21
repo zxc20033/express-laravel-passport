@@ -25,7 +25,7 @@ module.exports = function (sequelize, secret) {
           }
         });
         const { jti } = jwt.decode(token);
-        const access_token = await OauthAccessToken.findById(jti);
+        const access_token = await OauthAccessToken.findByPk(jti);
         request.user_id = access_token.user_id
       }
     }
